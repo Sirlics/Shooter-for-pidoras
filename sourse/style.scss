@@ -1,0 +1,19 @@
+$maxWidth: 1280;
+
+
+
+
+
+@import"none";
+@import"mixin";
+@import"header";
+@import"main";
+@import"footer";
+
+
+.wrapper{
+   cursor: url('/img/red-crosshair-png-8.cur'), auto;
+}
+body{
+   cursor: url('/img/red-crosshair-png-8.cur'), auto;
+}
